@@ -8,3 +8,4 @@ git commit -m "%id%"
 git branch -M master
 git remote set-url origin https://Java488-oss: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@github.com/Java488-oss/LessonEntityManager.git
 git push origin master
+pause
